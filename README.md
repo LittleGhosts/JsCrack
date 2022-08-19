@@ -20,3 +20,7 @@ Web _signature 参数逆向
 
 + 文章详情页中，HTML 里详情信息 ```window.initialState``` 加密解密
 + 搜索页面中，Cookie ```acw_sc__v2``` 的生成方法
+
+### 网易云 (update 220819)
+
++ 评论接口 ( ```params```, ```encSecKey``` 生成)
